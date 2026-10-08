@@ -1,5 +1,8 @@
-## Hi there 👋
-
+# Hello!
+## I'm Benjamin, a Computer Engineering major at Washington State University
+Here on Github I have a number of various projects from old game jams to systems for Minecraft servers I have run
+## Current Topics of interest
+[Ham Radio](https://img.shields.io/badge/Ham%20Radio%20-FCC%20-blue?logo=fcc)
 <!--
 **Thesuperjuniper/Thesuperjuniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
