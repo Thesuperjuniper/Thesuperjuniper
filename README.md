@@ -1,8 +1,8 @@
 # Hello!
 ## I'm Benjamin, a Computer Engineering major at Washington State University
-Here on Github I have a number of various projects from old game jams to systems for Minecraft servers I have run
+Here on Github I have a number of various projects from old game jams to systems for Minecraft servers I have run and mods I have designed
 ## Current Topics of interest
-![Ham Radio](https://img.shields.io/badge/Ham%20Radio%20-FCC%20-blue?logo=fcc)
+![Ham Radio](https://img.shields.io/badge/Ham%20Radio%20-FCC%20-blue?logo=fcc) ![Godot Game design](https://img.shields.io/badge/Game%20Design%20-Godot%20-blue?logo=godotengine&logoColor=blue) ![Minecraft Fabric Modding](https://img.shields.io/badge/Minecraft%20Modding%20-Fabric%20API%20-white)
 <!--
 **Thesuperjuniper/Thesuperjuniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
